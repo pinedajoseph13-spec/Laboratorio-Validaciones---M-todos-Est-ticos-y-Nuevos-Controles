@@ -11,4 +11,5 @@ En esta seccion estaremos viendo la parte del laboratorio 3 de la clase de Herra
 ### Tecnologías
 - C#
 
+<img width="1186" height="591" alt="image" src="https://github.com/user-attachments/assets/2646896b-8796-42d9-a2e9-1411ced98a9d" />
 
