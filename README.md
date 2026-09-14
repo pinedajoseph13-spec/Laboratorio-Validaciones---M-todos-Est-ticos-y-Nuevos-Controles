@@ -40,14 +40,14 @@ En esta seccion estaremos viendo la parte del laboratorio 3 de la clase de Herra
 
 ## Instrucciones de uso
 
-> 1-Solo descargar el archivo donde dice> repositorio
-> 2-Agregarlo en la carpeta de calquier parte de su computadora
-> 3-Descomprimirlo
+> 1- Solo descargar el archivo donde dice> repositorio
+> 2- Agregarlo en la carpeta de calquier parte de su computadora
+> 3- Descomprimirlo
 
 ## Autor:
 
-> -Nombre: Joseph Pineda
-> -Institucion: Universidad Tecnologica de Panama
+> - Nombre: Joseph Pineda
+> - Institucion: Universidad Tecnologica de Panama
 > - Fecha de realizacion: 13/09/2026
 
 
