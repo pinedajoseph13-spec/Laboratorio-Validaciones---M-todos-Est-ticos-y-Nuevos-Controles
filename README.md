@@ -1,4 +1,4 @@
-# Laboratorio-Validaciones---M-todos-Est-ticos-y-Nuevos-Controles
+# Laboratorio Validaciones -Metodos Esteticos y Nuevos Controles
 
 > Fecha:  09/13/2026
 
