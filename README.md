@@ -34,4 +34,20 @@ En esta seccion estaremos viendo la parte del laboratorio 3 de la clase de Herra
 ### Descripción:
 > Aqui se ve que en el form1 se le agrego adrentro el orm 2, osea una perstaña dentro de la otra.
 
+## Estructura de las carpetas
+> README
+> Repositorio.Zip
+
+## Instrucciones de uso
+
+> 1-Solo descargar el archivo donde dice> repositorio
+> 2-Agregarlo en la carpeta de calquier parte de su computadora
+> 3-Descomprimirlo
+
+## Autor:
+
+> -Nombre: Joseph Pineda
+> -Institucion: Universidad Tecnologica de Panama
+> - Fecha de realizacion: 13/09/2026
+
 
