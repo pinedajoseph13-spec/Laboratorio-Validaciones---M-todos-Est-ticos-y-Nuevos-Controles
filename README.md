@@ -11,5 +11,14 @@ En esta seccion estaremos viendo la parte del laboratorio 3 de la clase de Herra
 ### Tecnologías
 - C#
 
+## DataGridView - Ejecución: 
+
+### Aqui se puedeapreciar que se agrego el usuario Joseph Pineda, su correo, fecha de nacimiento, y su salario. En el apartado de arriba estan losdos botones asignados como agregar a latabla y el de borrar toda la tabla.
+<img width="681" height="468" alt="image" src="https://github.com/user-attachments/assets/42246e99-7c7a-4d96-b945-baf1cca0b2ab" />
+
+## Juego de Craps - Ejecución: 
+### Aqui se puede ver que el jugador gano, ya que le salio: 7
 <img width="1186" height="591" alt="image" src="https://github.com/user-attachments/assets/2646896b-8796-42d9-a2e9-1411ced98a9d" />
 
+## MDI - Ejecución
+<img width="598" height="398" alt="image" src="https://github.com/user-attachments/assets/a629e985-7bba-4302-8edb-c6787551972a" />
